@@ -1,5 +1,5 @@
 # CS 178 — Lab 14 Starter Repo
-# Clayton Gustafson
+# Clayton Gustafson (my name)
 
 This is the starter repository for **Lab 14: Flask Part II**.
 
